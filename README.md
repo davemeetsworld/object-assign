@@ -6,7 +6,7 @@ An implmentation of ES6 Object.assign();
 
 ## Install
 
-$ bower install
+$ bower install es6-object-assign
 
 
 ## Usage
