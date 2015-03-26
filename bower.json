@@ -1,0 +1,16 @@
+{
+  "name": "object-assign",
+  "main": "object-assign.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/davemeetsworld/object-assign",
+  "authors": [
+    "David Baker <djbaker2@gmail.com>"
+  ],
+  "description": "An implementation of ES6 Object.assign()",
+  "keywords": [
+    "object-assign",
+    "objects",
+    "javascript"
+  ],
+  "license": "MIT"
+}
