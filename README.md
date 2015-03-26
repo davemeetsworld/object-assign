@@ -21,4 +21,4 @@ var r = { speak : function ()  { console.log('Hello, World!')} }
 var k = oa.assign(r,t);
 
 // k = { name : "lisa", age : 25,  speak : function ()  { console.log('Hello, World!')} }
-```js
+
